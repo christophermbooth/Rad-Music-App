@@ -76,6 +76,7 @@
     "jquery": "^3.5.1",
     "js-cookie": "^2.2.1",
     "mysql2": "^2.2.5",
+    "node-media-server": "^2.2.4",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
     "popper.js": "^1.16.1",
